@@ -1,0 +1,6 @@
+org/springframework/build/optional/OptionalDependenciesPlugin.java
+ org.springframework.build.optional.OptionalDependenciesPlugin
+org/springframework/build/compile/CompilerConventionsPlugin.java
+ org.springframework.build.compile.CompilerConventionsPlugin
+org/springframework/build/api/ApiDiffPlugin.java
+ org.springframework.build.api.ApiDiffPlugin

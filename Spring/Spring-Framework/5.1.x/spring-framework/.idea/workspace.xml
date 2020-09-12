@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="13341dac-5eb8-48e2-b97a-816fa6cf2dfe" name="默认的" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="spring" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1599897446" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="G:\Maven_repository" />
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+        <option name="userSettingsFile" value="E:\Ex-API\JAVA\Maven\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hE3loUFhAuRLicA3pji3fdrwOk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="项目" />
+    <property name="project.structure.proportion" value="0.22625" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="13341dac-5eb8-48e2-b97a-816fa6cf2dfe" name="默认的" comment="" />
+      <created>1599562579051</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599562579051</updated>
+      <workItem from="1599562580436" duration="4778000" />
+      <workItem from="1599801208098" duration="12369000" />
+      <workItem from="1599828707823" duration="1224000" />
+      <workItem from="1599892730723" duration="3095000" />
+    </task>
+    <task id="LOCAL-00001" summary="build Spring">
+      <created>1599895756563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599895756563</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="build Spring" />
+    <option name="LAST_COMMIT_MESSAGE" value="build Spring" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="506" y="80" key="CommitChangelistDialog2" timestamp="1599895755484">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="506" y="80" key="CommitChangelistDialog2/-1920.-2.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599895755484" />
+    <state x="0" y="94" key="SettingsEditor" timestamp="1599829286639">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="186" y="205" key="SettingsEditor/-1920.-2.1536.832/0.0.1920.1040@-1920.-2.1536.832" timestamp="1599807231446" />
+    <state x="0" y="94" key="SettingsEditor/-1920.-2.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599829286639" />
+    <state x="680" y="260" width="540" height="524" key="StructurePopup" timestamp="1599894313498">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="260" width="540" height="524" key="StructurePopup/-1920.-2.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599894313498" />
+    <state x="-1559" y="143" key="Vcs.Push.Dialog.v2" timestamp="1599895770268">
+      <screen x="-1920" y="-2" width="1536" height="832" />
+    </state>
+    <state x="-1559" y="143" key="Vcs.Push.Dialog.v2/-1920.-2.1536.832/0.0.1920.1040@-1920.-2.1536.832" timestamp="1599895770268" />
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1599897448927">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="426" key="git4idea.remote.GitConfigureRemotesDialog/-1920.-2.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599897448927" />
+    <state x="1100" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1599894308034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="-1040" y="181" width="672" height="543" key="search.everywhere.popup/-1920.-2.1536.832/0.0.1920.1040@-1920.-2.1536.832" timestamp="1599805885456" />
+    <state x="1100" y="229" width="672" height="678" key="search.everywhere.popup/-1920.-2.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1599894308034" />
+  </component>
+</project>
