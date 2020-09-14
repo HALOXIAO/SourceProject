@@ -509,7 +509,9 @@ public class HashMap<K, V>
     /**
      * Offloaded version of put for null keys
      */
+    // key为null的时候，一定是table中的首位
     private V putForNullKey(V value) {
+        //查找table首位上的链表，看下有没有key为null的Entry，有的话就修改它的值
         for (Entry<K, V> e = table[0]; e != null; e = e.next) {
             if (e.key == null) {
                 V oldValue = e.value;
@@ -519,6 +521,7 @@ public class HashMap<K, V>
             }
         }
         modCount++;
+        // 没有找到key为null的情况
         addEntry(0, null, value, 0);
         return null;
     }
@@ -569,6 +572,7 @@ public class HashMap<K, V>
      *                    capacity is MAXIMUM_CAPACITY (in which case value
      *                    is irrelevant).
      */
+    // JDK7和JDK8的一个较大的区别
     void resize(int newCapacity) {
         Entry[] oldTable = table;
         int oldCapacity = oldTable.length;
@@ -578,7 +582,7 @@ public class HashMap<K, V>
         }
 
         Entry[] newTable = new Entry[newCapacity];
-        transfer(newTable, initHashSeedAsNeeded(newCapacity));
+        transfer(newTable, initHashSeedAsNeeded(newCapacity)); //关键
         table = newTable;
         threshold = (int) Math.min(newCapacity * loadFactor, MAXIMUM_CAPACITY + 1);
     }
@@ -588,8 +592,8 @@ public class HashMap<K, V>
      */
     void transfer(Entry[] newTable, boolean rehash) {
         int newCapacity = newTable.length;
-        for (Entry<K, V> e : table) {
-            while (null != e) {
+        for (Entry<K, V> e : table) {//遍历oleTable
+            while (null != e) {//遍历链表
                 Entry<K, V> next = e.next;
                 if (rehash) {
                     e.hash = null == e.key ? 0 : hash(e.key);

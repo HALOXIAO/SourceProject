@@ -20,7 +20,19 @@ public class Test {
     }
 
     public static void main(String[] args) {
-        System.out.println(tableSizeFor(100000));
+        Node node1 = new Node();
+        Node node2 = new Node();
+        node1.val = 1;
+        node1.next =node2;
+        node2.val = 2;
+        node2 = null;
+        System.out.println(node1.next.val);
     }
 
+
+}
+
+class Node {
+    public Node next;
+    public int val;
 }
